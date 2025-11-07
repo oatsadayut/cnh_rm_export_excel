@@ -99,3 +99,6 @@ htmlcov/
 *.log
 *.tmp
 *.swp
+
+*.xlsx
+*.xls
